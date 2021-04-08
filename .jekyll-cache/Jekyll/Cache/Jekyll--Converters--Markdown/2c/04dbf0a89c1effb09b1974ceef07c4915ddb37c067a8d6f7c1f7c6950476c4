@@ -1,34 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<!--<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; img-src 'self'; font-src 'self' https://fonts.gstatic.com; connect-src 'self'; media-src 'self'; object-src 'self'; child-src 'self'; form-action 'none'; base-uri 'self'" />-->
-
-<meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval' http://www.soundcloud.com">
-<meta http-equiv="X-XSS-Protection"  content="1;mode=block" always>
-<meta http-equiv="Referrer-Policy" content="no-referrer, strict-origin-when-cross-origin"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <title>works</title><!-- Begin Jekyll SEO tag v2.7.1 -->
-<meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="works" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="/works/" />
-<meta property="og:url" content="/works/" />
-<meta property="og:site_name" content="Levin Eric Zimmermann" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="works" />
-<script type="application/ld+json">
-{"@type":"WebPage","url":"/works/","headline":"works","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-<link rel="stylesheet" type="text/css" href="/assets/main-light.css"></head>
-<body>
-    <div class="container"><header>
-  <div class="menu">
-    <ul><li><a href="/about/">about</a></li><li><a href="/works/">works</a></li><li><a href="/dates/">dates</a></li><li><a href="/">contact</a></li></ul>
-  </div>
-</header>
-<main>
-      <h1 id="thanatos-trees-for-tim-pauli-2021">thanatos trees for Tim Pauli [2021]</h1>
+I"�<h1 id="thanatos-trees-for-tim-pauli-2021">thanatos trees for Tim Pauli [2021]</h1>
 
 <p>15-channel installation for ~25 speaker, trunks, tree stands</p>
 
@@ -61,7 +31,7 @@
 <p>9-channel installation for ~15 radios, lights, carpets</p>
 
 <p><img src="/assets/peepboxi0.jpg" alt="drawing" width="300" /><img src="/assets/peepboxi1.jpg" alt="drawing" width="300" />
-(<a href="https://rebeccaterbraak.de/">Images by Rebecca ter braak</a>)</p>
+(<a href="https://rebeccaterbraak.de/">Image by Rebecca ter braak</a>)</p>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/668855967&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/levinericzimmermann" title="Levin Eric Zimmermann" target="_blank" style="color: #cccccc; text-decoration: none;">Levin Eric Zimmermann</a> · <a href="https://soundcloud.com/levinericzimmermann/sets/peep-box-i" title="peep box I" target="_blank" style="color: #cccccc; text-decoration: none;">peep box I</a></div>
@@ -72,11 +42,4 @@
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/548160651&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/levinericzimmermann" title="Levin Eric Zimmermann" target="_blank" style="color: #cccccc; text-decoration: none;">Levin Eric Zimmermann</a> · <a href="https://soundcloud.com/levinericzimmermann/studajo-ii" title="studaĵo II" target="_blank" style="color: #cccccc; text-decoration: none;">studaĵo II</a></div>
-
-
-    </main><footer>
-  <a href="https://github.com/levinericzimmermann">github</a> <a href="https://soundcloud.com/levinericzimmermann">soundcloud</a>
-</footer>
-</div>
-  </body>
-</html>
+:ET
