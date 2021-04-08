@@ -28,6 +28,8 @@ github: levinericzimmermann
 # Build settings
 theme: jekyll-theme-console
 markdown: kramdown
+gems:
+  - jekyll-seo-tag
 plugins:
   - jekyll-feed
 
