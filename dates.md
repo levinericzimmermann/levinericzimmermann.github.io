@@ -7,6 +7,8 @@ classes:
 ---
 
 
+~~20.11.2021~~ |  ~~Bergerkirche Düsseldorf, KOLORIT~~ | ~~peep box III~~ |  
+ | (canceled due to pandemic) | |
 ~~31.10.2021~~ |  ~~NOW! Festival Essen~~ | ~~kagem Karina~~ | ~~with M. Hernandez, S. von Atzingen, E. Herrera & Y. Yu~~ 
  | (canceled due to pandemic) | |
 27.01.2020  |  Folkwang UdK  | ohne Titel (0)      | with T. Eom & S. Kim

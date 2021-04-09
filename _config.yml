@@ -37,6 +37,7 @@ header_pages:
     - about.md
     - works.md
     - dates.md
+    - etc.md
     - index.md
 
 style: light
