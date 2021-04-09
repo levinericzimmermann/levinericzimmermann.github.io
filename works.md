@@ -6,7 +6,7 @@ permalink: /works/
 
 # thanatos trees for Tim Pauli [2021]
 
-15-channel installation for ~25 speaker, trunks, tree stands
+15-channel installation (~1 hour loop) for ~25 speaker, trunks, tree stands
 
 
 # kagem Karina [2020]
@@ -35,7 +35,7 @@ for two player piano (where one player piano is detuned by a quarter tone) or on
 
 # peep box I [2018]
 
-9-channel installation for ~15 radios, lights, carpets
+9-channel installation (~11 minutes loop) for ~15 radios, lights, carpets
 
 <img src="/assets/peepboxi0.jpg" alt="drawing" width="300"/><img src="/assets/peepboxi1.jpg" alt="drawing" width="300"/>
 ([Images by Rebecca ter braak](https://rebeccaterbraak.de/))
