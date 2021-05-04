@@ -12,3 +12,4 @@ published: true
 # software
 
 - [mutwo: an event based framework for composing music or other time-based arts](https://github.com/mutwo-org/mutwo)
+- [ekme-heji.ily: Helmholtz-Ellis JI Notation for Lilypond](https://github.com/levinericzimmermann/ekme-heji.ily)
