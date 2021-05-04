@@ -1,5 +1,8 @@
 ---
 layout: home
+title:
+permalink:
+navigation_weight: -10
 ---
 
 
