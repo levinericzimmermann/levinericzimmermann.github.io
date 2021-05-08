@@ -38,6 +38,7 @@ header_pages:
     - works.md
     - dates.md
     - etc.md
+    - contact.md
     - index.md
 
 style: light
