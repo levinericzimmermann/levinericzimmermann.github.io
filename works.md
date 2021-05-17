@@ -4,7 +4,7 @@ title: works
 permalink: /works/
 ---
 
-# oT|2019|2020|2021 [2019 - 2021]
+# oT|2019|2020|2021 [2019/2020/2021]
 
 two tape miniatures, stereo
 
