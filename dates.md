@@ -7,6 +7,7 @@ classes:
 ---
 
 
+06.07.2021  |  Folkwang UdK  | kagem Karina  | with M. Hernandez, S. von Atzingen, E. Herrera & Y. Yu
 12.04.2021  |  Jour de Ruhr, Radio 8000, Munich  | ohne Titel (0)  | with R. Beseler
 ~~20.11.2020~~ |  ~~Bergerkirche Düsseldorf, KOLORIT~~ | ~~peep box III~~ |  
  | (canceled due to pandemic) | |
