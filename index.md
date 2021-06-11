@@ -8,6 +8,6 @@ title: index
 
 
 <br>
-<img src="/assets/wilson_hexany.png" alt="drawing" width="600"/>
+<img src="/assets/ot0.png" alt="drawing" width="400"/>
 
 # ____
