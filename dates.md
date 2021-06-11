@@ -7,7 +7,12 @@ classes:
 ---
 
 
+06.10.2021  |  Folkwang UdK  | BA concert | 
 06.07.2021  |  Folkwang UdK  | kagem Karina  | with M. Hernandez, S. von Atzingen, E. Herrera & Y. Yu
+25.06.2021  | `ne(x)t_generation 8.5`, ZKM | `oT|2019|2020|2021'2`|
+25.06.2021  | `ne(x)t_generation 8.5`, ZKM | `oT|2019|2020|2021'1` |
+29.05.2021  | BPM Vol. 244, BRF 1 | `oT|2019|2020|2021'2`| with R. Beseler
+29.05.2021  | BPM Vol. 244, BRF 1 | `oT|2019|2020|2021'1` | with R. Beseler
 12.04.2021  |  Jour de Ruhr, Radio 8000, Munich  | ohne Titel (0)  | with R. Beseler
 ~~20.11.2020~~ |  ~~Bergerkirche Düsseldorf, KOLORIT~~ | ~~peep box III~~ |  
  | (canceled due to pandemic) | |
