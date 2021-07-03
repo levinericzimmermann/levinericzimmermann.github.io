@@ -7,7 +7,7 @@ classes:
 ---
 
 
-2021.10.06  |  Folkwang UdK  | BA concert | 
+2021.10.06  |  BA concert, Folkwang UdK  | kagem karina, ohne Titel (2) | 
 2021.09.04  | Soundfloat Mühlheim S.d.R. | ohne Titel (3) | with M. Hernandez & P. Diederich
 2021.07.25  | Stromspießer 6, Krupp Park | thanatos trees for Tim Pauli |
 2021.07.11  |  Gitter Raum  | thanatos trees for Tim Pauli  |
