@@ -9,6 +9,8 @@ classes:
 
 2021.10.06  |  Folkwang UdK  | BA concert | 
 2021.07.25  | Stromspießer 6, Krupp Park | thanatos trees for Tim Pauli |
+2021.07.11  |  Gitter Raum  | thanatos trees for Tim Pauli  |
+2021.07.09  |  Gitter Raum  | thanatos trees for Tim Pauli  |
 2021.07.06  |  Folkwang UdK  | kagem Karina  | with M. Hernandez, S. von Atzingen, E. Herrera & Y. Yu
 2021.06.26  | `ne(x)t_generation 8.5`, ZKM | `oT|2019|2020|2021'2`|
 2021.06.26  | `ne(x)t_generation 8.5`, ZKM | `oT|2019|2020|2021'1` |
