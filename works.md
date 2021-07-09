@@ -26,6 +26,9 @@ two tape miniatures, stereo
 for viola, violin, cello, keyboard & electronics
 [-> score]({{ site.baseurl }}{% link /assets/a4_kagemKarina.pdf %})
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KCyBRjWksFM?start=92" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(with M. Hernandez, S. von Atzingen, E. Herrera & Y. Yu, Mixing & Recording: Georg Niehusmann)
+
 # ohne Titel (0) [2019/2020]
 
 for fretless electric guitar, diy electric cimbalom & 2-channel tape
