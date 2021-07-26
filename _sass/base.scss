@@ -49,14 +49,18 @@ footer { margin-bottom: 20px; }
 /**
  * Table
  */
+
 table {
-  width: 150%;
+    table-layout: fixed;
+    width: 135%;
 }
 
-th, td {
-  padding: 2px;
-  text-align: left
+table td {
+    word-wrap: break-word;         /* All browsers since IE 5.5+ */
+    overflow-wrap: break-word;     /* Renamed property in CSS3 draft spec */
+    padding: 20px;
 }
+
 
 /**
  * Header/Navigation
