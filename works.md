@@ -7,8 +7,8 @@ permalink: /works/
 [`oT|2019|2020|2021`](/works/ot201920202021) | two tape miniatures, stereo | 2019/2020/2021
 [thanatos trees for Tim Pauli](/works/thanatostreesfortimpauli) | 15-channel installation (~1 hour loop) for ~25 speaker, trunks, tree stands  | 2021
 [kagem Karina](/works/kagemkarina) | for viola, violin, cello, keyboard & electronics | 2020
-[ohne Titel 0](/works/ot0)  | for fretless electric guitar, diy electric cimbalom & 2-channel tape | 2019/2020
-[ohne Titel 1](/works/ot1)  | for siter slenthem, siter barung, siter panerus & keyboard | 2019
+[ohne Titel (0)](/works/ot0)  | for fretless electric guitar, diy electric cimbalom & 2-channel tape | 2019/2020
+[ohne Titel (1)](/works/ot1)  | for siter slenthem, siter barung, siter panerus & keyboard | 2019
 [peep box II](/works/peepboxii)  | for two player piano or one player piano and 2-channel tape | 2019
 [peep box I](/works/peepboxi)  | 9-channel installation (~11 minutes loop) for ~15 radios, lights, carpets | 2018
 [studajo II](/works/studajoii)  | for 2-channel tape | 2017
