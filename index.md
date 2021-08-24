@@ -3,11 +3,8 @@ layout: default
 title: index
 ---
 
-# ____
-# Levin Eric Zimmermann [Composer]
-
+<h1>Levin Eric Zimmermann</h1>
 
 <br>
-<img src="/assets/ot0.png" alt="drawing" width="400"/>
+<img src="/assets/stromspiesser1.jpeg" alt="drawing" width="400"/>
 
-# ____
