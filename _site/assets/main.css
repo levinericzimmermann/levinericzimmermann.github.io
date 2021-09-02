@@ -6,7 +6,7 @@
 /** Global */
 body { background-color: var(--background-color); margin: 0 auto; padding: 0; font-family: "Source Code Pro", monospace; font-size: 12.5px; color: var(--text-color); text-align: left; line-height: 1.5 !important; }
 
-h1, h2, h3, h4, h5, h6 { font-size: 12.5px; margin: 0px; margin-top: 22px; font-weight: bold; color: var(--text-color); }
+h1, h2, h3, h4, h5, h6 { font-size: 14.5px; margin: 0px; margin-top: 22px; font-weight: bold; color: var(--text-color); }
 
 p, ul, ol { margin: 0px; color: var(--text-color); }
 
@@ -42,9 +42,9 @@ footer { margin-bottom: 20px; }
 :not(.menu) > ul > li:before { content: "-"; margin-right: 9px; }
 
 /** Table */
-table { width: 150%; }
+table { table-layout: fixed; width: 135%; }
 
-th, td { padding: 2px; text-align: left; }
+table td { word-wrap: break-word; /* All browsers since IE 5.5+ */ overflow-wrap: break-word; /* Renamed property in CSS3 draft spec */ padding: 20px; }
 
 /** Header/Navigation */
 .menu { border-top: var(--border); border-bottom: var(--border); margin-bottom: 25px; }
