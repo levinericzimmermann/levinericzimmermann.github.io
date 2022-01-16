@@ -3,8 +3,9 @@ layout: default
 title: index
 ---
 
-<h1>Levin Eric Zimmermann</h1>
-
 <br>
-<img src="/assets/stromspiesser1.jpeg" alt="drawing" width="400"/>
+
+<p style="text-align:center;">
+  <img id="standard-50" src="/assets/Ambrogio_Lorenzetti_002-detail-Temperance.jpg"/>
+</p>
 
