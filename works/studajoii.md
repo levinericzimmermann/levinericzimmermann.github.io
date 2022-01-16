@@ -1,7 +1,5 @@
 ---
-layout: page
-title: works
-permalink: /works/studajoii
+layout: default
 ---
 
 # studajo II [2017]

@@ -1,7 +1,5 @@
 ---
-layout: page
-title: works
-permalink: /works/ot1
+layout: default
 ---
 
 
@@ -9,6 +7,6 @@ permalink: /works/ot1
 
 for siter slenthem, siter barung, siter panerus & keyboard
 
-<img src="/assets/ohne_titel_(1).jpg" alt="drawing" width="400"/>
+<img id="standard-100" src="/assets/ohne_titel_(1).jpg" alt="documentation-image-0"/>
 
 

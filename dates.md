@@ -1,9 +1,5 @@
 ---
-layout: page
-title: dates
-permalink: /dates/
-classes:
-    minimal
+layout: default
 ---
 
 
@@ -15,10 +11,10 @@ classes:
 2021.07.11  | Gitter Raum, Essen | thanatos trees for Tim Pauli  |
 2021.07.09  | Gitter Raum, Essen | thanatos trees for Tim Pauli  |
 2021.07.06  |  Folkwang UdK  | kagem Karina  | with M. Hernandez, S. von Atzingen, E. Herrera & Y. Yu
-2021.06.26  | `ne(x)t_generation 8.5`, ZKM | `oT|2019|2020|2021'2`|
-2021.06.26  | `ne(x)t_generation 8.5`, ZKM | `oT|2019|2020|2021'1` |
-2021.05.29  | BPM Vol. 244, BRF 1 | `oT|2019|2020|2021'2`| with R. Beseler
-2021.05.29  | BPM Vol. 244, BRF 1 | `oT|2019|2020|2021'1` | with R. Beseler
+2021.06.26  | ne(x)t_generation 8.5, ZKM | oT\|2019\|2020\|2021'2 |
+2021.06.26  | ne(x)t_generation 8.5, ZKM | oT\|2019\|2020\|2021'1 |
+2021.05.29  | BPM Vol. 244, BRF 1 | oT\|2019\|2020\|2021'2| with R. Beseler
+2021.05.29  | BPM Vol. 244, BRF 1 | oT\|2019\|2020\|2021'1 | with R. Beseler
 2021.04.12  |  Jour de Ruhr, Radio 8000, Munich  | ohne Titel (0)  | with R. Beseler
 ~~2020.11.20~~ |  ~~Bergerkirche Düsseldorf, KOLORIT~~ | ~~peep box III~~ |  
  | (canceled due to pandemic) | |

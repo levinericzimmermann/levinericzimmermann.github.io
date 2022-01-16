@@ -1,14 +1,12 @@
 ---
-layout: page
-title: works
-permalink: /works/
+layout: default
 ---
 
-[ohne Titel (4)](/works/ot4) | for cello & drone | 2021
+[ohne Titel (4)](/works/ot4) | for cello, live-electronics & stereo tape | 2021/2022
 [彁](/works/彁) | 6-channel installation for radios, VHF transmitter & script | 2021
 [ohne Titel (2)](/works/ot2) | open instrumentation | 2021
 [ohne Titel (3)](/works/ot3) | for alto saxophone, violin & radio orchestra | 2021
-[`oT|2019|2020|2021`](/works/ot201920202021) | two tape miniatures, stereo | 2019/2020/2021
+[oT\|2019\|2020\|2021](/works/ot201920202021) | two tape miniatures, stereo | 2019/2020/2021
 [thanatos trees for Tim Pauli](/works/thanatostreesfortimpauli) | 15-channel installation (~1 hour loop) for ~25 speaker, trunks, tree stands  | 2021
 [kagem Karina](/works/kagemkarina) | for viola, violin, cello, keyboard & electronics | 2020
 [ohne Titel (0)](/works/ot0)  | for fretless electric guitar, diy electric cimbalom & 2-channel tape | 2019/2020

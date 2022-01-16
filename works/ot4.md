@@ -1,10 +1,8 @@
 ---
-layout: page
-title: works
-permalink: /works/ot4
+layout: default
 ---
 
 
 # ohne Titel (4) [2021]
 
-for cello & drone
+for cello, live-electronics & stereo tape
