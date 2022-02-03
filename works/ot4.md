@@ -8,7 +8,7 @@ layout: default
 for cello, live-electronics & stereo tape
 
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1209326038&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/levinericzimmermann" title="Levin Eric Zimmermann" target="_blank" style="color: #cccccc; text-decoration: none;">Levin Eric Zimmermann</a> · <a href="https://soundcloud.com/levinericzimmermann/ohne-titel-4" title="ohne Titel (4)" target="_blank" style="color: #cccccc; text-decoration: none;">ohne Titel (4)</a></div>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=728665977/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://levinericzimmermann.bandcamp.com/track/ohne-titel-4">ohne Titel (4) by Levin Eric Zimmermann</a></iframe>
 
 <center>
 <img id="standard-100" src="/assets/wilson_brun.png" alt="music-theory-by-wilson"/>
