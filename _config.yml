@@ -1,6 +1,6 @@
 title: Levin Eric Zimmermann
 author: Levin Eric Zimmermann
-tagline: Page of artist and developer Levin Zimmermann
+tagline: Page of composer and software developer Levin Zimmermann
 url: "https://levinericzimmermann.eu"
 baseurl: ""
 soundcloud: levinericzimmermann
@@ -16,6 +16,7 @@ social:
     - https://levinericzimmermann.bandcamp.com/
     - https://soundcloud.com/levinericzimmermann
     - https://github.com/levinericzimmermann
+    - https://github.com/mutwo-org
 favicon_location: assets/favicon/favicon.ico
 favicon: yes
 

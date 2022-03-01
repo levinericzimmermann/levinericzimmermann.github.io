@@ -8,7 +8,7 @@ tagline: Page of composer and developer Levin Zimmermann
 
 
 <p style="text-align:center;">
-  <img id="standard-50" src="/assets/Ambrogio_Lorenzetti_002-detail-Temperance.jpg"/>
+  <img id="standard-50" src="/assets/Ambrogio_Lorenzetti_002-detail-Temperance.jpg" alt="Ambrogio Lorenzetti fresco"/>
 </p>
 
 <br>

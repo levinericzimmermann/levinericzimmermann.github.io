@@ -5,7 +5,7 @@ image: /assets/zimmermann.jpg
 ---
 
 <p style="text-align:center;">
-  <img id="standard-50" src="/assets/zimmermann.jpg" alt="profile-picture"/>
+  <img id="standard-50" src="/assets/zimmermann.jpg" alt="Levin Zimmermann potrait"/>
 </p>
 
 Raised in the Black Forest, Levin Eric Zimmermann studies composition at Folkwang University of the arts, Essen, Germany.

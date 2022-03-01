@@ -19,11 +19,12 @@ body {
 }
 a {
     // text-decoration: none;
-    text-decoration: underline dotted;
-    color: $accent;
+    text-decoration: none;
+    // color: $accent;
+    color: red;
 }
 a:hover {
-    text-decoration: underline dashed;
+    text-decoration: underline;
     color: grey;
 }
 hr {
@@ -40,6 +41,17 @@ h1 {
 h2 {
     font-size: 140%;
 }
+
+h3 {
+    font-size: 120%;
+}
+
+
+h4 {
+    font-size: 110%;
+}
+
+
 
 /*
  * Navbar
