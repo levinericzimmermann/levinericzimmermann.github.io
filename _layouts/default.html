@@ -54,6 +54,7 @@
     {% else %}
         <meta name="twitter:image" content="{{ site.profile_picture }}">
     {% endif %}
+    {% seo %}
 </head>
 <body>
     <div class="wrapper">
@@ -61,7 +62,7 @@
             {% if site.ins_logo %}
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
             {% endif %}
-            <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+            <a id="author-name" class="alignable pull-left" href="{{ site.url }}">{{ site.title }}</a>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}
