@@ -16,6 +16,8 @@ social:
     - https://levinericzimmermann.bandcamp.com/
     - https://soundcloud.com/levinericzimmermann
     - https://github.com/levinericzimmermann
+favicon_location: assets/favicon/favicon.ico
+favicon: yes
 
 
 markdown: kramdown
