@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About Levin Zimmermann
 ---
 
 <p style="text-align:center;">

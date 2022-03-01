@@ -1,5 +1,7 @@
 ---
 layout: default
+title: works
+tagline: Compositions of Levin Zimmermann
 ---
 
 [ohne Titel (4)](/works/ot4) | for cello, live-electronics & stereo tape | 2021/2022

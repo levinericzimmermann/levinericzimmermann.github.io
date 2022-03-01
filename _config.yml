@@ -1,8 +1,14 @@
 title: Levin Eric Zimmermann
+author: Levin Eric Zimmermann
+tagline: Page of artist and developer Levin Zimmermann
 url: ""
 baseurl: ""
 soundcloud: levinericzimmermann
 github: levinericzimmermann
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"

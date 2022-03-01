@@ -1,6 +1,7 @@
 ---
 layout: default
-title: index
+title: Levin Eric Zimmermann
+tagline: Page of composer and developer Levin Zimmermann
 ---
 
 <br>
