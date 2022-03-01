@@ -1,5 +1,8 @@
 ---
 layout: default
+image: /assets/oT3_docu.JPG
+title: ohne Titel (3)
+tagline: composition "ohne Titel (3)" from Levin Zimmermann
 ---
 
 

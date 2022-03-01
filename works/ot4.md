@@ -1,5 +1,8 @@
 ---
 layout: default
+image: /assets/wilson_brun.png
+title: ohne Titel (4)
+tagline: composition "ohne Titel (4)" from Levin Zimmermann
 ---
 
 
