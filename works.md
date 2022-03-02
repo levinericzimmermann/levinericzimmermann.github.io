@@ -1,12 +1,10 @@
 ---
-layout: default
+layout: table
 title: works
 tagline: Compositions and installations of Levin Zimmermann
 ---
 
-<center>
-<h1>concertante compositions & installations</h1>
-</center>
+
 
 [ohne Titel (4)](/works/ot4) | for cello, live-electronics & stereo tape | 2021/2022
 [彁](/works/彁) | 6-channel installation for radios, VHF transmitter & script | 2021
@@ -20,4 +18,9 @@ tagline: Compositions and installations of Levin Zimmermann
 [peep box II](/works/peepboxii)  | for two player piano or one player piano and 2-channel tape | 2019
 [peep box I](/works/peepboxi)  | 9-channel installation (~11 minutes loop) for ~15 radios, lights, carpets | 2018
 [studajo II](/works/studajoii)  | for 2-channel tape | 2017
+{: class="table"}
 
+
+<center>
+<h1 style="visibility: hidden;">concertante compositions & installations</h1>
+</center>

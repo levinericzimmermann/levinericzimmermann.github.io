@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: table
 title: Performance Dates
 ---
 
@@ -25,4 +25,4 @@ title: Performance Dates
 2019.08.22  |  YOGYAKARTA GAMELAN FESTIVAL 2019 | ohne Titel (1) | with C. Huet, G. Wendt & Wahyu Kiky Y. P.
 2019.07.04  |  Folkwang UdK  | peep box II |
 2018.07.06  |  Folkwang UdK  | peep box I |
-{:.inner-borders}
+{: .inner-borders class="table"}

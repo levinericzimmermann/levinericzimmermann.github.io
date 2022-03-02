@@ -17,7 +17,7 @@ social:
     - https://soundcloud.com/levinericzimmermann
     - https://github.com/levinericzimmermann
     - https://github.com/mutwo-org
-favicon_location: assets/favicon/favicon.ico
+favicon_location: /assets/favicon/favicon.ico
 favicon: yes
 
 
