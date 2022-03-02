@@ -1,8 +1,12 @@
 ---
 layout: default
 title: works
-tagline: Compositions of Levin Zimmermann
+tagline: Compositions and installations of Levin Zimmermann
 ---
+
+<center>
+<h1>concertante compositions & installations</h1>
+</center>
 
 [ohne Titel (4)](/works/ot4) | for cello, live-electronics & stereo tape | 2021/2022
 [彁](/works/彁) | 6-channel installation for radios, VHF transmitter & script | 2021

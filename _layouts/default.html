@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="blog, accent, {{ site.author }}, {{ site.title }}, jekyll">
+    <meta name="keywords" content="{{ site.author }}, {{ site.title }}, Levin, Levin Zimmermann, Levin Eric Zimmermann, composition, Just Intonation">
     <meta name="author" content="{{ site.author }}">
     {% if page.url == "/404.html" %}
         <meta http-equiv="refresh" content="5; url=/">
@@ -20,7 +20,6 @@
     {% else %}
         {% assign url = site.url | append: site.baseurl | append: page.url %}
     {% endif %}
-    <meta name="description" content="{{ desc }}">
     <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -62,11 +61,11 @@
             {% if site.ins_logo %}
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
             {% endif %}
-            <a id="author-name" class="alignable pull-left" href="{{ site.url }}">{{ site.title }}</a>
+            <a id="author-name" class="alignable pull-left" href="{{ site.url }}" title="Main site of Levin Zimmermanns webpage">{{ site.title }}</a>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}
-                        <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
+                    <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}" title="levins {{ x.name }} page">{{ x.name }}</a>
                     {% else %}
                         <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
                     {% endif %}
@@ -78,15 +77,15 @@
             </ul>
         </div>
         <div style="clear:both"></div>
-        <hr>
         <div class="container content">
+        <hr>
             {{ content }}
         <hr>
             {% if site.footer == true %}
                 <p style="text-align: center; margin-bottom: 10px; font-size: 100%;">
                 {% for footer_part in site.footer_list %}
                     <a id="footer-image-link" href="{{ footer_part.url }}" style="color: black">
-                        <img id="footer-image" src="{{ footer_part.img_url }}" alt="{{ footer_part.name }}"/>
+                        <img id="footer-image" src="{{ footer_part.img_url }}" alt="Link to Levins {{ footer_part.name }} page" title="{{ footer_part.name }} page of Levin Zimmermann"/>
                     </a>
                 {% endfor %}
                 </p>
