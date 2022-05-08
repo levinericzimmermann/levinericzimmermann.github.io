@@ -4,6 +4,8 @@ title: Performance Dates
 ---
 
 
+2022.07.22 | NMZ Essen | canções de desassossego | with S. Falk, R. Beseler & M. Morales
+2022.05.27 | Folkwang UdK  | canções de desassossego | with S. Falk, R. Beseler & M. Morales
 2021.11.24 | LTK4, Cologne  | 彁 | 
 2021.10.27 - 2021.11.06  | LTK4, Cologne  | thanatos trees for Tim Pauli | 
 2021.10.06  | BA concert, Folkwang UdK  | ohne Titel (2) | with M. Hernandez, S. von Atzingen, R. Beseler, T. Pauli & Y. Yu
