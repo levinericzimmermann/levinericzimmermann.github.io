@@ -30,13 +30,13 @@ footer: yes
 footer_list:
   - name: "bandcamp"
     url: "https://levinericzimmermann.bandcamp.com/"
-    img_url: "https://www.seekpng.com/png/detail/113-1133459_open-bandcamp-logo-white-png.png"
+    img_url: "/assets/113-1133459_open-bandcamp-logo-white-png.png"
   - name: "soundcloud"
     url: "https://soundcloud.com/levinericzimmermann"
-    img_url: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FShare%2Ficon%2FLogos%2Fsoundcloud1600.png&f=1&nofb=1"
+    img_url: "/assets/soundcloud_logo.png"
   - name: "github"
     url: "https://github.com/levinericzimmermann"
-    img_url: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    img_url: "/assets/GitHub-Mark.png"
 
 sass:
     style: compressed
