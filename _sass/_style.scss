@@ -1,7 +1,18 @@
-@import url(//db.onlinewebfonts.com/c/76620e2b3e9d54512d94915e11659eb5?family=Mangal);
 @import "vars";
 
+/*
+@import url(//db.onlinewebfonts.com/c/76620e2b3e9d54512d94915e11659eb5?family=Mangal);
+
 @font-face {font-family: "Mangal"; src: url("//db.onlinewebfonts.com/t/f2ad400e8a02436a59d5c55019ddf9e7.eot"); src: url("//db.onlinewebfonts.com/t/f2ad400e8a02436a59d5c55019ddf9e7.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/f2ad400e8a02436a59d5c55019ddf9e7.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/f2ad400e8a02436a59d5c55019ddf9e7.woff") format("woff"), url("//db.onlinewebfonts.com/t/f2ad400e8a02436a59d5c55019ddf9e7.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/f2ad400e8a02436a59d5c55019ddf9e7.svg#Mangal") format("svg"); }
+*/
+
+ @font-face {
+  font-family: Mangal;
+  /*src: url(../assets/fonts/exo2-thin.ttf);*/
+  /*src: url(../assets/fonts/nimbusmono-regular.otf);*/
+  src: url(../assets/fonts/Mangal/Mangal.ttf);
+}
+
 
 /*
  * Basic
