@@ -4,15 +4,16 @@ title: About Levin Zimmermann
 image: /assets/zimmermann.jpg
 ---
 
+<h1 style="visibility: hidden;">about levin eric zimmermann</h1>
+
 
 <p style="text-align:center;">
   <img id="standard-50" src="/assets/zimmermann.jpg" alt="Levin Zimmermann potrait"/>
 </p>
 
-Raised in the Black Forest, Levin Eric Zimmermann studies composition at Folkwang University of the arts, Essen, Germany.
-He developed a distinct interest in too long & too slow performances in the course of multiple study visits to Indonesia.
-In his music he examines precise intonation & algorithmic methods.
-Emphasizing a hypercultural aesthetic, he loves to collect musical instruments, ancient radios & other real & virtual (sound) objects from contradictory time-space positions that can become part of his work.
-
-<h1 style="visibility: hidden;">Levin Eric Zimmermann</h1>
-
+hi, i'm levin.
+i spend most of my days composing & playing & curating music.
+i prefer boredom to persuading; restraint to expression; doubt to ideology & community to competition.
+i belief mankinds best beverage invention is tea with milk or cream.
+i like long aimless walks in urban areas & so do i like long & slow & non-directional artworks.
+i have a day job at the french libre software company nexedi.
