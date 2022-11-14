@@ -4,8 +4,15 @@ title: Performance Dates
 ---
 
 
+2022.12.01 | NMZ Essen | 9.3 | with T. Pauli, G. Kollewijn, C. R. Porst, T. Voerste & J. Weigandt
+2022.10.14 | Audio Foundation Auckland | LTK4Allstars & DFC Cooperation | with R. Aust, V. Barié & F. Zwißler, with H Johnson, P. Dadson, I. Mrsic, S. Martin-Buss & K. Larsen
+2022.07.27 | LTK4 | LTK4Allstars: STEIN | with R. Aust, V. Barié, L. Weiand, L. Antunes Pena & F. Zwißler 
 2022.07.22 | NMZ Essen | canções do desassossego | with S. Falk, R. Beseler & M. Morales
+2022.06.29 | LTK4 | LTK4Allstars: STAUB | with R. Aust, V. Barié, L. Antunes Pena & F. Zwißler 
 2022.05.27 | Folkwang UdK  | canções do desassossego | with S. Falk, R. Beseler & M. Morales
+2022.05.25 | LTK4 | LTK4Allstars: PAPIER | with R. Aust, V. Barié, L. Weiand, L. Antunes Pena & F. Zwißler 
+2022.04.27 | LTK4 | LTK4Allstars: GLAS | with R. Aust, V. Barié, L. Weiand, L. Antunes Pena & F. Zwißler 
+2022.03.30 | LTK4 | LTK4Allstars: LICHT | with R. Aust, V. Barié, L. Weiand & F. Zwißler 
 2021.11.24 | LTK4, Cologne  | 彁 | 
 2021.10.27 - 2021.11.06  | LTK4, Cologne  | thanatos trees for Tim Pauli | 
 2021.10.06  | BA concert, Folkwang UdK  | ohne Titel (2) | with M. Hernandez, S. von Atzingen, R. Beseler, T. Pauli & Y. Yu
