@@ -11,8 +11,8 @@ layout: default
 
 <img id="standard-75" src="/assets/stromspiesser0.jpeg" alt="installation-at-stromspiesser"/>
 
-(thanatos trees @ [Stromspiesser](https://www.facebook.com/stromspiesser))
+(thanatos trees @ [stromspiesser](https://www.facebook.com/stromspiesser))
 
 <img id="standard-75" src="/assets/thanatosTreesGitter.jpeg" alt="installation-at-gitter-raum"/>
 
-(thanatos trees @ [Gitter Raum](https://www.instagram.com/gitterraum/))
+(thanatos trees @ [gitter raum](https://www.instagram.com/gitterraum/))

@@ -3,7 +3,6 @@ layout: default
 title: ohne Titel (2)
 tagline: composition "ohne Titel (2)" from Levin Zimmermann
 ---
----
 
 
 # ohne Titel (2) [2021]
@@ -17,4 +16,4 @@ for 3 x sustaining instruments, 1 x noise making instrument, 1 x keyboard & 7 x 
 
 <img id="standard-75" src="/assets/Ambrogio_Lorenzetti_002-detail-Temperance.jpg" alt="lorenzetti"/>
 
-([Reference](https://de.m.wikipedia.org/wiki/Datei:Ambrogio_Lorenzetti_002-detail-Temperance.jpg))
+([reference](https://de.m.wikipedia.org/wiki/Datei:Ambrogio_Lorenzetti_002-detail-Temperance.jpg))

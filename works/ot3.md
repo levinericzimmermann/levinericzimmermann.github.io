@@ -19,8 +19,8 @@ for alto saxophone, violin & radio orchestra
 
 <img id="standard-100" src="/assets/dore.jpg" alt="styx-painting"/>
 
-([Reference](https://victorianweb.org/art/illustration/dore/dante/4.html))
+([reference](https://victorianweb.org/art/illustration/dore/dante/4.html))
 
 <img id="standard-100" src="/assets/Big-ben-1858.jpg" alt="big-ben"/>
 
-([Reference](https://de.wikipedia.org/wiki/Datei:Big-ben-1858.jpg))
+([reference](https://de.wikipedia.org/wiki/Datei:Big-ben-1858.jpg))

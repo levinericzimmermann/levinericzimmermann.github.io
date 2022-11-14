@@ -16,4 +16,4 @@ for cello, live-electronics & stereo tape
 <center>
 <img id="standard-100" src="/assets/wilson_brun.png" alt="music-theory-by-wilson"/>
 </center>
-<p style="text-align:right;"><a href="http://anaphoria.com/viggo2.pdf">(Reference)</a></p>
+<p style="text-align:right;"><a href="http://anaphoria.com/viggo2.pdf">(reference)</a></p>
