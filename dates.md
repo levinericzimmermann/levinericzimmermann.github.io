@@ -4,15 +4,15 @@ title: Performance Dates
 ---
 
 
-2022.12.01 | nmz essen | 9.3 | w/ t. pauli, g. kollewijn, c. r. porst, t. voerste & j. weigandt
-2022.10.14 | audio foundation auckland | ltk4allstars & dfc cooperation | w/ r. aust, v. barié & f. zwißler, w/ h johnson, p. dadson, i. mrsic, s. martin-buss & k. larsen
-2022.07.27 | ltk4 | ltk4allstars: stein | w/ r. aust, v. barié, l. weiand, l. antunes pena & f. zwißler 
-2022.07.22 | nmz essen | canções do desassossego | w/ s. falk, r. beseler & m. morales
-2022.06.29 | ltk4 | ltk4allstars: staub | w/ r. aust, v. barié, l. antunes pena & f. zwißler 
+2022.12.01 | nmz, essen | 9.3 | w/ t. pauli, g. kollewijn, c. r. porst, t. voerste & j. weigandt
+2022.10.14 | audio foundation, auckland | ltk4allstars & dfc cooperation | w/ r. aust, v. barié & f. zwißler, w/ h johnson, p. dadson, i. mrsic, s. martin-buss & k. larsen
+2022.07.27 | ltk4, cologne | ltk4allstars: stein | w/ r. aust, v. barié, l. weiand, l. antunes pena & f. zwißler 
+2022.07.22 | nmz, essen | canções do desassossego | w/ s. falk, r. beseler & m. morales
+2022.06.29 | ltk4, cologne | ltk4allstars: staub | w/ r. aust, v. barié, l. antunes pena & f. zwißler 
 2022.05.27 | folkwang udk  | canções do desassossego | w/ s. falk, r. beseler & m. morales
-2022.05.25 | ltk4 | ltk4allstars: papier | w/ r. aust, v. barié, l. weiand, l. antunes pena & f. zwißler 
-2022.04.27 | ltk4 | ltk4allstars: glas | w/ r. aust, v. barié, l. weiand, l. antunes pena & f. zwißler 
-2022.03.30 | ltk4 | ltk4allstars: licht | w/ r. aust, v. barié, l. weiand & f. zwißler 
+2022.05.25 | ltk4, cologne | ltk4allstars: papier | w/ r. aust, v. barié, l. weiand, l. antunes pena & f. zwißler 
+2022.04.27 | ltk4, cologne | ltk4allstars: glas | w/ r. aust, v. barié, l. weiand, l. antunes pena & f. zwißler 
+2022.03.30 | ltk4, cologne | ltk4allstars: licht | w/ r. aust, v. barié, l. weiand & f. zwißler 
 2021.11.24 | ltk4, cologne  | 彁 | 
 2021.10.27 - 2021.11.06  | ltk4, cologne  | thanatos trees for tim pauli | 
 2021.10.06  | ba concert, folkwang udk  | ohne titel (2) | w/ m. hernandez, s. von atzingen, r. beseler, t. pauli & y. yu
