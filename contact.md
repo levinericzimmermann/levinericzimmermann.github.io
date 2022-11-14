@@ -3,9 +3,9 @@ layout: default
 title: Contact Levin Zimmermann
 ---
 
-Levin Eric Zimmermann
+levin eric zimmermann
 
-45128 Essen
+45128 essen
 
 phone: +491781436804
 
