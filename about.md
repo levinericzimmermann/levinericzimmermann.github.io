@@ -11,7 +11,7 @@ image: /assets/zimmermann.jpg
   <img id="standard-50" src="/assets/zimmermann.jpg" alt="Levin Zimmermann potrait"/>
 </p>
 
-hi, i'm levin.
+hi, i'm levin (he/him).
 i spend most of my days composing & playing & curating music.
 i prefer boredom to persuading; restraint to expression; doubt to ideology & community to competition.
 i belief mankinds best beverage invention is tea with milk or cream.
