@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: work
+title: kagem Karina
+year: 2020
+description: for viola, violin, cello, keyboard & electronics
 ---
-
-
-# kagem Karina [2020]
-
-for viola, violin, cello, keyboard & electronics
 
 [-> score]({{ site.baseurl }}{% link /assets/a4_kagemKarina.pdf %})
 

@@ -1,0 +1,25 @@
+---
+layout: default
+title: Performance dates
+---
+
+
+
+<div class="container">
+    {% assign sorted_dates = site.dates | reverse %}
+    {% for date in sorted_dates %}
+    {% if date.d %}
+    <div class="row date-row">
+        <div class="col-sm-5 col-md-4">
+            <p style="text-align: justify; text-justify: inter-word;">{{ date.d }} {{ date.space }}</p>
+        </div>
+        <div class="col-sm-2 col-md-3">
+            <p>{{ date.what }}</p>
+        </div>
+        <div class="col-xl-5 col-md-6 col-sm-8">
+            <p class="players">{% if date.who %}\w {% endif %}{{ date.who }}</p>
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>

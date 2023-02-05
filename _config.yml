@@ -19,6 +19,8 @@ social:
     - https://github.com/mutwo-org
 favicon_location: /assets/favicon/favicon.ico
 favicon: yes
+collections:
+  - dates
 
 
 markdown: kramdown

@@ -1,0 +1,31 @@
+---
+layout: works
+title: works
+tagline: Compositions and installations of Levin Zimmermann
+---
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            {% for post in site.posts %}
+            <div class="row separator-for-small-screen">
+                <div class="col-xl-4 col-sm-5">
+                    <a href="{{ post.url }}">
+                        <p>{{ post.title | downcase }}</p>
+                    </a>
+                </div>
+                <div class="col-xl-6 col-md-6 col-sm-8">
+                    <p style="text-align: justify; text-justify: inter-word;">{{ post.description | downcase }}</p>
+                </div>
+                <div class="col-sm-2 col-md-1">
+                    <p>{{ post.year }}</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+            </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
