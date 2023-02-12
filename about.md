@@ -7,10 +7,10 @@ image: /assets/zimmermann.jpg
 <center>
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel" data-bs-interval="false">
       <div class="carousel-inner">
-        <div class="carousel-item active">
+        <div class="carousel-item">
               <img id="standard-50h" src="/assets/zimmermann-v0.jpg" alt="Levin Eric Zimmermann potrait"/>
         </div>
-        <div class="carousel-item">
+        <div class="carousel-item active">
               <img id="standard-50h" src="/assets/zimmermann-i0.jpeg" alt="Levin Eric Zimmermann potrait"/>
         </div>
         <div class="carousel-item">
