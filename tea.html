@@ -11,9 +11,7 @@ tagline: microblog about my tea consumption
     {% for tea in sorted_teas %}
     <div class="row tea-row">
         <div class="col">
-            <center>
-                <img id="standard-50h" src="/assets/{{ tea.ipath }}" alt="tea image"/>
-            </center>
+            <img id="tea-image" src="/assets/{{ tea.ipath }}" alt="tea image"/>
         </div>
         <div class="col">
             <p>{{ tea.tea }} ({{ tea.type }})<p>
