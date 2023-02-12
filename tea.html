@@ -1,0 +1,29 @@
+---
+layout: default
+title: tea microblog
+tagline: microblog about my tea consumption
+---
+
+
+
+<div class="container">
+    {% assign sorted_teas = site.teas | reverse %}
+    {% for tea in sorted_teas %}
+    <div class="row tea-row">
+        <div class="col">
+            <center>
+                <img id="standard-50h" src="/assets/{{ tea.ipath }}" alt="tea image"/>
+            </center>
+        </div>
+        <div class="col">
+            <p>{{ tea.tea }} ({{ tea.type }})<p>
+        </div>
+        <div class="col">
+            <p>{{ tea.brew_count }}. brew, {{ tea.degree }}°C for {{ tea.btime }}</p>
+        </div>
+        <div class="col">
+            <p>{{ tea.time }}, {{ tea.tdate }}, {{ tea.place }}</p>
+        </div>
+    </div>
+    {% endfor %}
+</div>

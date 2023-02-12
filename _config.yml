@@ -21,6 +21,7 @@ favicon_location: /assets/favicon/favicon.ico
 favicon: yes
 collections:
   - dates
+  - teas
 
 
 markdown: kramdown
@@ -49,13 +50,15 @@ nav:
    link: "/about"
  - name: "works"
    link: "/works"
- - name: "dates"
-   link: "/dates"
  - name: "texts"
    link: "/texts"
  - name: "software"
    link: "/software"
+ - name: "dates"
+   link: "/dates"
  - name: "curating"
    link: "/curating"
+ - name: "tea"
+   link: "/tea"
  - name: "contact"
    link: "/contact"
