@@ -1,9 +1,6 @@
 @import "vars";
 
 .content {
-    a:hover {
-        text-decoration: underline;
-    }
     ol {
         counter-reset: list;
     }

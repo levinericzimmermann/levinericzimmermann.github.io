@@ -3,6 +3,7 @@ layout: work
 title: kagem Karina
 year: 2020
 description: for viola, violin, cello, keyboard & electronics
+parent: works
 ---
 
 [-> score]({{ site.baseurl }}{% link /assets/a4_kagemKarina.pdf %})

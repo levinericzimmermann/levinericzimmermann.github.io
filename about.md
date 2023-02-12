@@ -1,6 +1,6 @@
 ---
-layout: default
-title: About Levin Zimmermann
+layout: inside
+title: about
 image: /assets/zimmermann.jpg
 ---
 
