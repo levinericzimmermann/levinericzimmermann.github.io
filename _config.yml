@@ -1,5 +1,5 @@
 title: levin eric zimmermann
-author: Levin Eric Zimmermann
+author: levin eric zimmermann
 tagline: Page of composer and software developer Levin Zimmermann
 url: "https://levinericzimmermann.eu"
 baseurl: ""
@@ -9,9 +9,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
-description: Levin Eric Zimmermann is a German composer, software developer and musician. He works in the fields of Just Intonation, computer-assisted composition and sound art.
+description: levin eric zimmermann is a german composer & musician. he works in the fields of just intonation, computer-assisted composition and sound art.
 social:
-  name: Levin Zimmermann
+  name: levin zimmermann
   links:
     - https://levinericzimmermann.bandcamp.com/
     - https://soundcloud.com/levinericzimmermann
