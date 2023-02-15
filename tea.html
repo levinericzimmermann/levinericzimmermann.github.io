@@ -1,27 +1,116 @@
 ---
 layout: default
-title: tea microblog
+title: tea logbook
 tagline: microblog about my tea consumption
 ---
 
 
 
 <div class="container">
-    {% assign sorted_teas = site.teas | reverse %}
-    {% for tea in sorted_teas %}
     <div class="row tea-row">
         <div class="col">
-            <img id="tea-image" src="/assets/{{ tea.ipath }}" alt="tea image"/>
+            <img id="tea-image" src="" alt="tea pot image"/>
         </div>
         <div class="col">
-            <p>{{ tea.tea }} ({{ tea.type }})<p>
+            <p id="tea-info"><p>
         </div>
         <div class="col">
-            <p>{{ tea.brew_count }}. brew, {{ tea.degree }}°C for {{ tea.btime }}</p>
+            <p id="preparation-info"></p>
         </div>
         <div class="col">
-            <p>{{ tea.time }}, {{ tea.tdate }}, {{ tea.place }}</p>
+            <p id="context-info"></p>
         </div>
     </div>
-    {% endfor %}
+    <div class="row tea-row">
+        <div class="col">
+        </div>
+        <div class="col">
+            <h3><a href="#" id="previous-button">previous tea</a></h3>
+        </div>
+        <div class="col">
+            <h3><a href="#" id="next-button">next tea</a></h3>
+        </div>
+        <div class="col">
+        </div>
+    </div>
 </div>
+
+<script>
+    function hide(element) {
+        element.style.color = "lightpink";
+    }
+
+    function unhide(element) {
+        element.style.color = "#FF3366";
+    }
+
+    function g(id) {
+        return document.getElementById(id);
+    };
+
+    function s(id, text) {
+        g(id).innerHTML = text;
+    };
+
+    function setTea(tea) {
+        g("tea-image").src = `/assets/${tea.ipath}`;
+        s("tea-info", `${tea.tea} (${tea.type})`);
+        s("preparation-info", `${tea.brew_count}. brew ${tea.degree}°C for ${tea.btime}`);
+        s("context-info", `${tea.time}, ${tea.tdate}, ${tea.place}`);
+    };
+
+    teaList = [
+    {% assign sorted_teas = site.teas | reverse %}
+    {% for tea in sorted_teas %}
+        {
+            "ipath":        "{{ tea.ipath }}",
+            "tea":          "{{ tea.tea }}",
+            "type":         "{{ tea.type }}",
+            "brew_count":   "{{ tea.brew_count }}",
+            "degree":       "{{ tea.degree }}",
+            "btime":        "{{ tea.btime }}",
+            "time":         "{{ tea.time }}",
+            "tdate":        "{{ tea.tdate }}",
+            "place":        "{{ tea.place }}"
+        }
+        {% if forloop.last == false %}
+        ,
+        {% endif %}
+    {% endfor %}
+    ];
+
+    const teaCount = teaList.length;
+
+    var currentTeaIndex = 0;
+
+    var nextButton = g("next-button");
+    var previousButton = g("previous-button");
+
+    nextButton.addEventListener('click', e => {
+        unhide(previousButton);
+        if (currentTeaIndex + 1 < teaCount) {
+            currentTeaIndex += 1;
+            setTea(teaList[currentTeaIndex]);
+        };
+        if (currentTeaIndex + 1 == teaCount) {
+            hide(nextButton);
+        };
+    });
+
+    previousButton.addEventListener('click', e => {
+        unhide(nextButton);
+        if (currentTeaIndex > 0) {
+            currentTeaIndex -= 1;
+            setTea(teaList[currentTeaIndex]);
+        };
+        if (currentTeaIndex == 0) {
+            hide(previousButton);
+        };
+    });
+
+
+    // initial state
+    setTea(teaList[0])
+    hide(previousButton);
+    unhide(nextButton);
+</script>
