@@ -53,10 +53,13 @@ tagline: microblog about my tea consumption
     };
 
     function setTea(tea) {
-        g("tea-image").src = `/assets/${tea.ipath}`;
-        s("tea-info", `${tea.tea} (${tea.type})`);
-        s("preparation-info", `${tea.brew_count}. brew ${tea.degree}°C for ${tea.btime}`);
-        s("context-info", `${tea.time}, ${tea.tdate}, ${tea.place}`);
+        var teaImage = g("tea-image");
+        teaImage.onload = function() {
+            s("tea-info", `${tea.tea} (${tea.type})`);
+            s("preparation-info", `${tea.brew_count}. brew ${tea.degree}°C for ${tea.btime}`);
+            s("context-info", `${tea.time}, ${tea.tdate}, ${tea.place}`);
+        };
+        teaImage.src = `/assets/${tea.ipath}`;
     };
 
     teaList = [
@@ -108,9 +111,14 @@ tagline: microblog about my tea consumption
         };
     });
 
-
     // initial state
-    setTea(teaList[0])
-    hide(previousButton);
-    unhide(nextButton);
+    window.addEventListener(
+        'load',
+        function() {
+            setTea(teaList[0])
+            hide(previousButton);
+            unhide(nextButton);
+        },
+        false
+    );
 </script>
