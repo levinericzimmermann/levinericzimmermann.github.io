@@ -11,11 +11,16 @@ let
     gemset = ./gemset.nix;
   };
 
+
 in
 
   stdenv.mkDerivation {
     name = "levin-webpage";
-    buildInputs = [env ruby];
+    buildInputs = [
+      env
+      ruby
+      mypython
+    ];
     shellHook = ''
     exec ${env}/bin/jekyll serve --watch
     '';
