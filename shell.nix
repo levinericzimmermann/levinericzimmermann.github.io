@@ -19,7 +19,6 @@ in
     buildInputs = [
       env
       ruby
-      mypython
     ];
     shellHook = ''
     exec ${env}/bin/jekyll serve --watch
