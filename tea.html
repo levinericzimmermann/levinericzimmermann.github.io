@@ -7,10 +7,15 @@ tagline: microblog about my tea consumption
 
 
 <div class="container">
-    <div class="row tea-row">
+    <div class="row">
         <div class="col">
-            <img id="tea-image" src="" alt="tea pot image"/>
+            <center>
+                <pre id="tea-image">
+                </pre>
+            </center>
         </div>
+    </div>
+    <div class="row tea-row">
         <div class="col">
             <p id="tea-info"><p>
         </div>
@@ -54,12 +59,20 @@ tagline: microblog about my tea consumption
 
     function setTea(tea) {
         var teaImage = g("tea-image");
-        teaImage.onload = function() {
-            s("tea-info", `${tea.tea} (${tea.type})`);
-            s("preparation-info", `${tea.brew_count}. brew ${tea.degree}°C for ${tea.btime}`);
-            s("context-info", `${tea.time}, ${tea.tdate}, ${tea.place}`);
-        };
-        teaImage.src = `/assets/${tea.ipath}`;
+        var teaPath = tea.ipath;
+        // bbb: Old tea files still link to deprecated
+        //      img files.
+        if ( teaPath.slice(-4) == "jpeg" ) {
+            teaPath = teaPath.slice(0, -5);
+        }
+        fetch(`/assets/${teaPath}`)
+        .then(response => response.text())
+        .then((data) => {
+          teaImage.textContent = data;
+          s("tea-info", `${tea.tea} (${tea.type})`);
+          s("preparation-info", `${tea.brew_count}. brew ${tea.degree}°C for ${tea.btime}`);
+          s("context-info", `${tea.time}, ${tea.tdate}, ${tea.place}`);
+        })
     };
 
     teaList = [

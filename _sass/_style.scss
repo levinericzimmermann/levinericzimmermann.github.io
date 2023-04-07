@@ -289,17 +289,50 @@ h4 {
     margin-right: 0.2vw;
     margin-top: 3vh;
     margin-bottom: 3vh;
+    width: auto;
+    height: 3.5vh;
 }
 
 
 #tea-image {
-    width: 30vh;
-    height: 22.5vh;
+    width: auto;
+    height: 62.5vh;
 }
 
-@media (max-width: 950px) {
+@media (max-width: 1150px) {
     #tea-image {
-        width: 55vw;
-        height: 41.25vw;
+        width: 100vw;
+        height: auto;
+        font-size: 2vh;
+    }
+
+    .tea-row {
+        height: 27.5vh;
+    }
+}
+
+
+
+@media (max-width: 850px) {
+    #tea-image {
+        width: 80vw;
+        height: auto;
+        font-size: 1.2vh;
+    }
+
+    .tea-row {
+        height: 27.5vh;
+    }
+}
+
+@media (max-width: 650px) {
+    #tea-image {
+        width: 60vw;
+        height: auto;
+        font-size: 0.65vh;
+    }
+
+    .tea-row {
+        height: 27.5vh;
     }
 }
