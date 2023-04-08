@@ -336,3 +336,16 @@ h4 {
         height: 26.5vh;
     }
 }
+
+
+@media (max-width: 320px) {
+    #tea-image {
+        width: 60vw;
+        height: auto;
+        font-size: 0.43vh;
+    }
+
+    .tea-row {
+        height: 26.5vh;
+    }
+}
