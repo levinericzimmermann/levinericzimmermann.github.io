@@ -1,6 +1,6 @@
 ---
 layout: inside
-title: curating
+title: spaces
 published: true
 ---
 
