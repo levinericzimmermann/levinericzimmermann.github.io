@@ -5,30 +5,8 @@ image: /assets/zimmermann.jpg
 ---
 
 <center>
-    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel" data-bs-interval="false">
-      <div class="carousel-inner">
-        <div class="carousel-item">
-              <img id="standard-50h" src="/assets/zimmermann-v0.jpg" alt="Levin Eric Zimmermann potrait"/>
-        </div>
-        <div class="carousel-item active">
-              <img id="standard-50h" src="/assets/zimmermann-i0.jpeg" alt="Levin Eric Zimmermann potrait"/>
-        </div>
-        <div class="carousel-item">
-              <img id="standard-50h" src="/assets/zimmermann.jpg" alt="Levin Eric Zimmermann potrait"/>
-        </div>
-        <div class="carousel-item">
-              <img id="standard-75h" src="/assets/levin-moerser-00163.jpg" alt="Levin Eric Zimmermann potrait"/>
-        </div>
-      </div>
-      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-      </button>
-      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-      </button>
-    </div>
+<img id="standard-50h" src="/assets/zimmermann-i0.jpeg" alt="foto of Levin Eric Zimmermann"/>
+<p>(foto: célia huet)</p>
 </center>
 
 hi, i'm levin (he/him).
