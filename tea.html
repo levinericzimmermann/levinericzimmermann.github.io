@@ -65,7 +65,7 @@ tagline: microblog about my tea consumption
         if ( teaPath.slice(-4) == "jpeg" ) {
             teaPath = teaPath.slice(0, -5);
         }
-        fetch(`/assets/${teaPath}`)
+        fetch(`/assets/tea/${teaPath}`)
         .then(response => response.text())
         .then((data) => {
           teaImage.textContent = data;
