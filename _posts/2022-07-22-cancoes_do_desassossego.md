@@ -8,8 +8,6 @@ parent: works
 ---
 
 
-> zu tee & infusion laden wir auf eine geruhsame zusammenkunft ein. ein gemeinschaftliches sitzen, warten, kollektives abwarten, den abend & nacht vorbeiziehen lassen, etwas essen, schläfrig werden, die minuten zählen & schätzen. gemeinsam im urbanen zentrum essens, in der unruhe einer straßenkreuzung nach gold suchen.
-
 <img id="standard-75h" src="/assets/cdc/doc_31_0.jpg" alt="Performance frame"/>
 
 <img id="standard-75h" src="/assets/cdc/doc_12_0.jpg" alt="Performance frame"/>
