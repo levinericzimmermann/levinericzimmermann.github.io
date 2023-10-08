@@ -349,3 +349,13 @@ h4 {
         height: 26.5vh;
     }
 }
+
+
+audio{
+   max-height: 100%;
+   width: 100%;
+   max-width: 600px;
+   min-width: 150px;
+   margin: auto;
+   object-fit: contain;
+ }
