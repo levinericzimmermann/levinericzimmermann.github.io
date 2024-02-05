@@ -14,7 +14,7 @@ footer: 1
     <div class="row index-row">
   {% endif %}
     <div class="col">
-        <h3><a class="fill-div" href="{{ x.link }}">{{ x.name | slice: 0 }}</a></h3>
+        <h1><a class="fill-div" href="{{ x.link }}">{{ x.name | slice: 0 }}</a></h1>
     </div>
   {% assign control_value = i | plus:1 %}
   {% if control_value == column_count %}
