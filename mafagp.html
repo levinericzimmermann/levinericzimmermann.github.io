@@ -1,0 +1,81 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <script type="text/javascript" src="http://unpkg.com/tone"></script>
+    <script type="text/javascript" src="/mafagp.js"></script>
+</head>
+<body>
+    <style>
+      button {
+        width: 90%;
+      }
+    </style>
+
+    <main class="container">
+    <h1>sine tones & noise </h1>
+
+    <div class="grid">
+        <div><h3 id="statedisplay">program state: 'stopped'</h3></div>
+        <div><h3 id="synthstatedisplay">synth state: 'stopped'</h3></div>
+    </div>
+
+    <br>
+    <br>
+
+    <h1>part 1</h1>
+    <div class="grid">
+        <div><button id="play1"><h2>Play</h2></button></div>
+        <div><button class="stopb"><h2>Stop</h2></button></div>
+    </div>
+
+    <br>
+    <br>
+
+    <h1>part 2</h1>
+    <div class="grid">
+        <div><button id="play2"><h2>Play</h2></button></div>
+        <div><button class="stopb"><h2>Stop</h2></button></div>
+    </div>
+
+    <br>
+    <br>
+
+    <h1>part 3</h1>
+    <div class="grid">
+        <div><button id="play3"><h2>Play</h2></button></div>
+        <div><button class="stopb"><h2>Stop</h2></button></div>
+    </div>
+
+    <script>
+        async function settoplay(part, pl, pwl) {
+            await initializetone();
+            program_start(part, pl, pwl);
+        }
+
+        function setplay(part, pl, pwl) {
+            var id = "#play" + part;
+            document.querySelector(id)?.addEventListener("click", async () => {
+                await settoplay(part, pl, pwl);
+            });
+        }
+
+        // The starts differ from each other.
+        setplay(1, [330, 440.0, 660.0], [1, 2, 2]);
+        setplay(2, [330, 440.0, 513.33, 660.0], [1, 2, 3, 2]);
+        setplay(3, [330, 440.0, 513.33, 660.0], [1, 2, 3, 2]);
+
+        // All stop are the same.
+        document.querySelectorAll(".stopb").forEach(
+            function (button) {
+                button.addEventListener("click", async () => {
+                    program_stop();
+                })
+            }
+        );
+    </script>
+
+    </main>
+
+</body>
+</html>
