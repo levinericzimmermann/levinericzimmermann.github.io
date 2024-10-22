@@ -61,6 +61,8 @@ const synth_states = {
 var synth_state = synth_states.stopped
 var switch_time = Tone.now();
 
+var pitch = 440
+
 // control duration of synth
 var play_duration = 5
 var stop_duration = 2
@@ -100,9 +102,17 @@ function set_synth(fadein_duration, fadeout_duration) {
     // https://github.com/Tonejs/Tone.js/blob/cf73c2287/Tone/component/envelope/Envelope.ts#L561-L567
     const envelope = {attack: fadein_duration, release: fadeout_duration, sustain: 1, releaseCurve: "linear"}
     if (Math.random() < synth_pitch_weight) {
+
+        // If we have a low frequency pitch, we add 1 partial,
+        // so that it's more audible.
+        var oscillator_type = "sine1";
+        if (pitch < 330) {
+            oscillator_type = "sine2";
+        }
+
         synth = new Tone.Synth(
             {
-                oscillator: {type: "sine1"},
+                oscillator: {type: oscillator_type},
                 envelope: envelope
             }
         ).toDestination();
@@ -120,10 +130,11 @@ function set_synth(fadein_duration, fadeout_duration) {
 function set_fadein(time) {
     set_synth_tempo()
 
+    pitch = get_pitch();
     set_synth(fadein_duration, fadeout_duration)
     set_state(time, "fadein")
     if (synth_is_pitched) {
-        synth.triggerAttack(get_pitch(), time);
+        synth.triggerAttack(pitch, time);
     } else {
         synth.triggerAttack(time);
     }

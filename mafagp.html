@@ -61,9 +61,10 @@
         }
 
         // The starts differ from each other.
-        setplay(1, [330, 440.0, 660.0], [1, 2, 2]);
-        setplay(2, [330, 440.0, 513.33, 660.0], [1, 2, 3, 2]);
-        setplay(3, [330, 440.0, 513.33, 660.0], [1, 2, 3, 2]);
+        setplay(1, [220, 330, 440.0, 660.0], [3, 1, 2, 2]);
+        setplay(2, [256.665, 330, 440.0, 513.33, 660.0], [3, 1, 2, 3, 2]);
+        //  TODO should be different than 2?
+        setplay(3, [256.665, 330, 440.0, 513.33, 660.0], [2, 1, 2, 3, 2]);
 
         // All stop are the same.
         document.querySelectorAll(".stopb").forEach(
